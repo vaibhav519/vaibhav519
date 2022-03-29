@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Parmar</h1>
-- 🌱 I’m currently learning <b>Django HTML CSS JavaScript</b
-
-- 💬 Ask me about **DataStructures Algorithms Python**
-
-- 📫 How to reach me **https://www.linkedin.com/in/vaibhav-parmar-653341215/**
+ -🌱 I’m currently learning <b>Django HTML CSS JavaScript</b> <br> <br>
+ -💬 Ask me about <b>DataStructures Algorithms Python</b> <br> <br>
+ -📫 How to reach me <b>https://www.linkedin.com/in/vaibhav-parmar-653341215/</b> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
