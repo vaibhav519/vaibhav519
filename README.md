@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Parmar</h1>
-- 🌱 I’m currently learning **Django HTML CSS JavaScript**
+- 🌱 I’m currently learning <b>Django HTML CSS JavaScript</b
 
 - 💬 Ask me about **DataStructures Algorithms Python**
 
