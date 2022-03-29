@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Parmar</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
-
 - 🌱 I’m currently learning **Django HTML CSS JavaScript**
 
 - 💬 Ask me about **DataStructures Algorithms Python**
