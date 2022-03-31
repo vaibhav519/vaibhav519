@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav519&show_icons=true&locale=en&layout=compact" alt="vaibhav519" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vaibhav519&show_icons=true&locale=en" alt="vaibhav519" width="495" height="150" /></p>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vaibhav519&show_icons=true&locale=en" alt="vaibhav519" width="495" height="150" />
