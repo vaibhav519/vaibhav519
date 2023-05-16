@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Parmar</h1>
- -🌱 I’m currently learning <b>Django HTML CSS JavaScript</b> <br> <br>
+ -🌱 I’m currently learning <b>MERN stack</b> <br> <br>
  -💬 Ask me about <b>DataStructures Algorithms Python</b> <br> <br>
  -📫 How to reach me <b>https://www.linkedin.com/in/vaibhav-parmar-653341215/</b> <br>
 
