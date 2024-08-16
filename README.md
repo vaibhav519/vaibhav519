@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Parmar</h1>
- -🌱 I’m currently learning <b>Nextjs</b> <br> <br>
  -📫 How to reach me <b>https://www.linkedin.com/in/vaibhav-parmar-653341215/</b> <br>
 
 <h3 align="left">Connect with me:</h3>
